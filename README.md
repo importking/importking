@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Detection Engineering - Docker, Elastic Rule Creation | <a href="https://github.com/importking/Projects/blob/main/Salazar_roo821_IS_3523_Lab01.pdf">Detection Lab</a>|
 | Threat Hunting - Splunk | <a href="https://drive.google.com/file/d/1ZCq4bG8KqRNs4AyaKMyMACBMwFZMgn7V/view?usp=sharing">Threat Hunt Lab</a>|
 | Incident Response with Forensics - FTK Imager | <a href="https://drive.google.com/file/d/1j2zA_ZR1ievOmfh4aP3ubsJ_2NI0qqb7/view?usp=sharing">Forensics Lab</a>|
-| SimSpace Lab - Kali Linux and Applications Usage| <a href="https://drive.google.com/file/d/1j2zA_ZR1ievOmfh4aP3ubsJ_2NI0qqb7/view?usp=sharing">Forensics Lab</a>|
-| Encryption         | <a href="https://drive.google.com/file/d/1j2zA_ZR1ievOmfh4aP3ubsJ_2NI0qqb7/view?usp=sharing">Forensics Lab</a>|
+| SimSpace Lab - Kali Linux and Applications Usage| <a href="https://drive.google.com/file/d/1gmtKVJgaPzcFGffacIRAbmE4nsYHkphH/view?usp=sharing">SimSpace Lab</a>|
+| Encryption         | <a href="https://drive.google.com/file/d/1QD29MlA_7GTCoHqrttf0Bk-hEifEou6r/view?usp=sharing">Encryption Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
