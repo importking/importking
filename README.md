@@ -17,6 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SimSpace Lab - Kali Linux and Applications Usage| <a href="https://drive.google.com/file/d/1gmtKVJgaPzcFGffacIRAbmE4nsYHkphH/view?usp=sharing">SimSpace Lab</a>|
 | Encryption         | <a href="https://drive.google.com/file/d/1QD29MlA_7GTCoHqrttf0Bk-hEifEou6r/view?usp=sharing">Encryption Lab</a>|
 | Password Cracking        | <a href="https://drive.google.com/file/d/1ByV37nbNdVE2zYmnb1CHLnN6C25Oba60/view?usp=sharing">Password Cracking Lab</a>|
+| Network Sniffing - Wireshark         | <a href="https://drive.google.com/file/d/1mZLZYnhRZdGej0Bjw8gIvSmk9b-0P-c1/view?usp=sharing">Wireshark Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
