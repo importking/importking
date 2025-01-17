@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Detection Engineering - Docker, Elastic Rule Creation | <a href="https://github.com/importking/Projects/blob/main/Salazar_roo821_IS_3523_Lab01.pdf">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Threat Hunting - Splunk | <a href="https://drive.google.com/file/d/1ZCq4bG8KqRNs4AyaKMyMACBMwFZMgn7V/view?usp=sharing">Threat Hunt Lab Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
